@@ -1,5 +1,8 @@
-.dsmovie-nav-content {
+header {
     background-color: var(--color-primary);
+}
+
+.dsmovie-nav-content {
     height: 60px;
     display: flex;
     align-items: center;
